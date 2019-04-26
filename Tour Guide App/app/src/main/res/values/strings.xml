@@ -1,0 +1,25 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide - Satellite Beach</string>
+    <string name="entertainment_theater">Movie Theater</string>
+    <string name="brevard_county_ramp">Brevard County Public Ramp</string>
+    <string name="littledos_restaurant">Inexpensive Mexican Food</string>
+    <string name="satellite_tennis_courts">Satellite Beach Public Courts</string>
+    <string name="long_doggers_restaurant">Causal Local Restaurant</string>
+    <string name="hightower_beach">Hightower Beach</string>
+    <string name="pelican_beach">Pelican Beach</string>
+    <string name="beach_access_hightower">815 Hwy A1A Satellite Beach</string>
+    <string name="beach_access_pelican">1532 Hwy A1A Satellite Beach</string>
+    <string name="phrase_come_here">Come here.</string>
+    <string name="parks">Parks</string>
+    <string name="entertainment">Fun</string>
+    <string name="restaurants">Eats</string>
+    <string name="beaches">Beach\nAccess</string>
+    <string name="lake_shepard_boat_ramp">Lake Shepard Boat Ramp</string>
+    <string name="littledos">Little Dos</string>
+    <string name="public_tennis_courts">Tennis</string>
+    <string name="long_doggers">Long Doggers</string>
+    <string name="cinemas">Satellite Beach Cinemas</string>
+    <string name="address_hightower">Hightower Beach</string>
+    <string name="hightower_url">https://www.google.com/maps/place/Hightower+Beach/@28.1945214,-80.5938711,15z/data=!4m5!3m4!1s0x0:0xe1ac959e95767676!8m2!3d28.1945214!4d-80.5938711</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#2196F3</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="blue_background">#90CAF9</color>
+
+    <!-- Background color for the park category -->
+    <color name="category_parks">#FD8E09</color>
+
+    <!-- Background color for the fun category -->
+    <color name="category_fun">#379237</color>
+
+    <!-- Background color for the eats category -->
+    <color name="category_eats">#8800A0</color>
+
+    <!-- Background color for the beach access category -->
+    <color name="category_beach_access">#16AFCA</color>
+</resources>
