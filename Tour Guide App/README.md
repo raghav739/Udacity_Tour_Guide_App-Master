@@ -4,15 +4,16 @@
 - [Android Basics Nanodegree at Udacity.com]
 
 ## Android Goodies
-- ViewPager. 
+- ViewPagers. 
 - Fragments.
 - Tabs.
-- ListView.
-- CardView.
+- ListViews.
+- CardViews.
 
 # Description
-- Tour Guide app for Travellers.
 - It contains a list of sights, shop and food places. Also some useful information for travellers. 
+
+- Tour Guide app for Travellers.
 
 ```
 PROJECT LICENSE
